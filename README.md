@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/koushik2636/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/koushik2636/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
