@@ -35,4 +35,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/koushik2636/Leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/koushik2636/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
