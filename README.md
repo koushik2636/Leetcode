@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/koushik2636/Leetcode/tree/master/0724-find-pivot-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/koushik2636/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -43,4 +44,24 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
