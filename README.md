@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/koushik2636/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/koushik2636/Leetcode/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/koushik2636/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/koushik2636/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
