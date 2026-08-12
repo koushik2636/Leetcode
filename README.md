@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/koushik2636/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/koushik2636/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/koushik2636/Leetcode/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/koushik2636/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
