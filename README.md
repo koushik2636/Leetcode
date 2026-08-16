@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/koushik2636/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/koushik2636/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushik2636/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik2636/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -36,6 +37,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/koushik2636/Leetcode/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -127,5 +129,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/koushik2636/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
