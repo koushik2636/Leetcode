@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/koushik2636/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/koushik2636/Leetcode/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/koushik2636/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/koushik2636/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -62,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/koushik2636/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/koushik2636/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik2636/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
