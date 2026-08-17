@@ -68,11 +68,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/koushik2636/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/koushik2636/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/koushik2636/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/koushik2636/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/koushik2636/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/koushik2636/Leetcode/tree/master/0709-to-lower-case) |
