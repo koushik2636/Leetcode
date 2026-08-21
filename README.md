@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/koushik2636/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/koushik2636/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -80,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/koushik2636/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/koushik2636/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/koushik2636/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koushik2636/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/koushik2636/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/koushik2636/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/koushik2636/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/koushik2636/Leetcode/tree/master/0349-intersection-of-two-arrays) |
