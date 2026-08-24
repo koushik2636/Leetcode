@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/koushik2636/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/koushik2636/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/koushik2636/Leetcode/tree/master/0326-power-of-three) |
@@ -24,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/koushik2636/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushik2636/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik2636/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
