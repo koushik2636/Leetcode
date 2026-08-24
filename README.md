@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/koushik2636/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/koushik2636/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/koushik2636/Leetcode/tree/master/0326-power-of-three) |
@@ -44,12 +45,14 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/koushik2636/Leetcode/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/koushik2636/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/koushik2636/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/koushik2636/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -85,6 +88,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/koushik2636/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/koushik2636/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/koushik2636/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/koushik2636/Leetcode/tree/master/0242-valid-anagram) |
