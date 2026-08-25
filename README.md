@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/koushik2636/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/koushik2636/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/koushik2636/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/koushik2636/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/koushik2636/Leetcode/tree/master/0326-power-of-three) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/koushik2636/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/koushik2636/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushik2636/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik2636/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/koushik2636/Leetcode/tree/master/0509-fibonacci-number) |
@@ -156,6 +158,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/koushik2636/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/koushik2636/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/koushik2636/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
