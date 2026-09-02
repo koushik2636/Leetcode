@@ -30,6 +30,7 @@
 | [0054-spiral-matrix](https://github.com/koushik2636/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushik2636/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik2636/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik2636/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koushik2636/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/koushik2636/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/koushik2636/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/koushik2636/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik2636/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/koushik2636/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/koushik2636/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/koushik2636/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/koushik2636/Leetcode/tree/master/0349-intersection-of-two-arrays) |
