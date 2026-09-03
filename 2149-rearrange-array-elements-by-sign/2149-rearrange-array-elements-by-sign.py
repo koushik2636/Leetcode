@@ -7,14 +7,23 @@ class Solution:
                 p.append(i)
             else:
                 n.append(i)
-        z=0
-        for j in range(len(p)):
-            nums[z]=p[j]
-            z+=2
-        r=1
-        for k in range(len(n)):
-            nums[r]=n[k]
-            r+=2
+        # z=0
+        # for j in range(len(p)):
+        #     nums[z]=p[j]
+        #     z+=2
+        # r=1
+        # for k in range(len(n)):
+        #     nums[r]=n[k]
+        #     r+=2
+        # return nums
+
+
+        k=0
+        for i in range(len(p)):
+            nums[k]=p[i]
+            k+=1
+            nums[k]=n[i]
+            k+=1
         return nums
 
 
