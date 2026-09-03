@@ -1,31 +1,16 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        p=[]
-        n=[]
-        for i in nums:
-            if i>0:
-                p.append(i)
+        p=0
+        n=1
+        arr=[0]*len(nums)
+
+        for i in range(len(nums)):
+            if nums[i]>0:
+                arr[p]=nums[i]
+                p+=2
             else:
-                n.append(i)
-        # z=0
-        # for j in range(len(p)):
-        #     nums[z]=p[j]
-        #     z+=2
-        # r=1
-        # for k in range(len(n)):
-        #     nums[r]=n[k]
-        #     r+=2
-        # return nums
+                arr[n]=nums[i]
+                n+=2
+        return arr
 
-
-        k=0
-        for i in range(len(p)):
-            nums[k]=p[i]
-            k+=1
-            nums[k]=n[i]
-            k+=1
-        return nums
-
-
-        
         
