@@ -37,6 +37,7 @@
 | [0119-pascals-triangle-ii](https://github.com/koushik2636/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushik2636/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/koushik2636/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/koushik2636/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik2636/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/koushik2636/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/koushik2636/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/koushik2636/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/koushik2636/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/koushik2636/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
