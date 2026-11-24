@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/koushik2636/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/koushik2636/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/koushik2636/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/koushik2636/Leetcode/tree/master/0067-add-binary) |
